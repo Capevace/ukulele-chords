@@ -1,0 +1,22 @@
+{
+  "name": "ukulele-chords",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate-local-references.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^6.2.1",
+    "svgdom": "^0.1.8",
+    "vexchords": "^1.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  },
+  "bin": {
+    "ukulele-chords": "src/index.js"
+  }
+}
