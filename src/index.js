@@ -32,9 +32,9 @@ program
 	.option('-o, --output-path <path>', 'the output path/file', (outputPath) =>
 		outputPath ? path.resolve(outputPath) : null
 	)
-	.action((chord, variation) => {
+	.action((chord, variation, cmd) => {
 		renderChord(String(chord), parseInt(variation || 0), {
-			outputPath: program.outputPath,
+			outputPath: cmd.outputPath,
 			fingerColors: program.colors,
 		});
 	});
