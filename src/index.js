@@ -1,20 +1,23 @@
-#! /usr/bin/env node
+#! /usr/bin/env node --trace-warnings
 const path = require('path');
 const fs = require('fs');
 
 // https://www.ukulele-tabs.com/images/ukulele-chords
 
+const isUrl = require('is-url');
+const urlJoin = require('url-join');
 const { program } = require('commander');
 const {
 	listAllChords,
 	renderChord,
 	renderAllChords,
 	printMarkdownReferences,
-	appendReference
+	appendReference,
 } = require('./controller');
 
 program
-	.version(require('../package.json').version);
+	.version(require('../package.json').version)
+	.option('-c, --colors', 'draw finger colors');
 
 program
 	.command('list')
@@ -30,18 +33,20 @@ program
 		outputPath ? path.resolve(outputPath) : null
 	)
 	.action((chord, variation) => {
-		renderChord(
-			String(chord),
-			parseInt(variation || 0),
-			program.outputPath
-		);
+		renderChord(String(chord), parseInt(variation || 0), {
+			outputPath: program.outputPath,
+			fingerColors: program.colors,
+		});
 	});
 
 program
 	.command('all [folderPath]')
 	.description('render all chords to SVG')
 	.action((outputPath) => {
-		renderAllChords(path.resolve(outputPath));
+		renderAllChords({
+			outputPath: path.resolve(outputPath),
+			fingerColors: program.colors,
+		});
 	});
 
 program
@@ -56,10 +61,32 @@ program
 	.command('append <file> <chords...>')
 	.description('append markdown reference to file')
 	.option('-p, --svg-path <path>', 'the path to be used to link the svgs')
-	.option('-f, --force', 'force append a reference (even if it already exists)')
+	.option(
+		'-f, --force',
+		'force append a reference (even if it already exists)'
+	)
+	.option(
+		'-l, --local-path',
+		"SVG Path is local (filename won't be encoded as URL component)"
+	)
 	.action((file, chords, cmd) => {
+		// ChordSVGs
+		const baseSvgPath =
+			cmd.svgPath ||
+			'https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs';
+		const pathIsUrl = isUrl(baseSvgPath);
+
 		for (const chord of chords) {
-			appendReference(chord, path.resolve(file), cmd.svgPath || 'ChordSVGs', cmd.force || false);
+			const svgPath = pathIsUrl
+				? urlJoin(baseSvgPath, `${encodeURIComponent(chord)}.svg`)
+				: path.join(baseSvgPath, `${chord}.svg`);
+
+			appendReference(
+				chord,
+				svgPath,
+				path.resolve(file),
+				cmd.force || false
+			);
 		}
 	});
 

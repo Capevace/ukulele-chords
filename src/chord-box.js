@@ -24,6 +24,7 @@ module.exports = class ChordBox {
 				defaultColor: '#666',
 				bgColor: '#fff',
 				labelColor: '#fff',
+				fingerColors: ['#f00', '#00f', '#0f0', '#0ff'],
 				fontFamily:
 					'-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"',
 				fontSize: undefined,
@@ -108,7 +109,7 @@ module.exports = class ChordBox {
 		return this.canvas.line(0, 0, newX - x, newY - y).move(x, y);
 	}
 
-	draw({ chord, position, barres, positionText, positionTextX = 0, tuning }) {
+	draw({ chord, position, barres, positionText, positionTextX = 0, tuning, finger }) {
 		this.chord = chord;
 		this.position = position || 0;
 		this.positionText = positionText || 0;
@@ -185,6 +186,27 @@ module.exports = class ChordBox {
 			}
 		}
 
+		// Draw fretmarkers (5, 7, 10)
+		const markers = [5, 7, 10];
+		for (const marker of markers) {
+			const markerPosition = this.position === 0
+				? marker - this.position
+				: marker - this.position + 1;
+
+			if (markerPosition > 0 && markerPosition <= this.params.numFrets) {
+				this.canvas
+					.circle()
+					.move(this.params.width / 2 + this.metrics.barShiftX, this.y + this.fretSpacing * markerPosition - this.fretSpacing / 2)
+					.radius(2)
+					.stroke({
+						color: 'black',
+						width: this.params.strokeWidth,
+					})
+					.fill('black')
+					.opacity(0.2);
+			}
+		}
+
 		// Draw chord
 		for (let i = 0; i < this.chord.length; i += 1) {
 			// Light up string, fret, and optional label.
@@ -192,6 +214,7 @@ module.exports = class ChordBox {
 				string: this.chord[i][0],
 				fret: this.chord[i][1],
 				label: this.chord.length > 2 ? this.chord[i][2] : undefined,
+				finger: this.chord[i][3]
 			});
 		}
 
@@ -205,7 +228,7 @@ module.exports = class ChordBox {
 		}
 	}
 
-	lightUp({ string, fret, label }) {
+	lightUp({ string, fret, label, finger }) {
 		const stringNum = this.numStrings - string;
 		const shiftPosition =
 			this.position === 1 && this.positionText === 1
@@ -228,14 +251,16 @@ module.exports = class ChordBox {
 				.move(x, y - this.fretSpacing / 2)
 				.radius(this.params.circleRadius || this.metrics.circleRadius)
 				.stroke({
-					color: this.params.strokeColor,
+					color: finger && fretNum > 0 
+						? this.params.fingerColors[finger - 1] || this.params.strokeColor
+						: this.params.strokeColor,
 					width: this.params.strokeWidth,
 				})
 				.fill(
 					fretNum > 0 ? this.params.strokeColor : this.params.bgColor
 				);
 		} else {
-			this.drawText(x, y - this.fretSpacing, 'X');
+			this.drawText(x, y - this.fretSpacing * 2.1, 'X', { size: Math.ceil(this.params.width / 8) });
 		}
 
 		if (label) {

@@ -10,7 +10,9 @@
   "license": "MIT",
   "dependencies": {
     "commander": "^6.2.1",
+    "is-url": "^1.2.4",
     "svgdom": "^0.1.8",
+    "url-join": "^4.0.1",
     "vexchords": "^1.2.0"
   },
   "devDependencies": {
