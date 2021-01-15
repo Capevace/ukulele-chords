@@ -9,37 +9,44 @@
 </div>
 <br>
 
-[C](chords/C.md)
 
-[C#](chords/C#.md)
 
-[Db](chords/Db.md)
+## CLI Usage
+For info on how to use the command-line tool, please refer to the [Usage](usage.md) page.
 
-[D](chords/D.md)
+## List of Keys
+### [C](chords/C.md)
 
-[D#](chords/D#.md)
+### [C#](chords/C#.md)
 
-[Eb](chords/Eb.md)
+### [Db](chords/Db.md)
 
-[E](chords/E.md)
+### [D](chords/D.md)
 
-[F](chords/F.md)
+### [D#](chords/D#.md)
 
-[F#](chords/F#.md)
+### [Eb](chords/Eb.md)
 
-[Gb](chords/Gb.md)
+### [E](chords/E.md)
 
-[G](chords/G.md)
+### [F](chords/F.md)
 
-[G#](chords/G#.md)
+### [F#](chords/F#.md)
 
-[Ab](chords/Ab.md)
+### [Gb](chords/Gb.md)
 
-[A](chords/A.md)
+### [G](chords/G.md)
 
-[A#](chords/A#.md)
+### [G#](chords/G#.md)
 
-[Bb](chords/Bb.md)
+### [Ab](chords/Ab.md)
 
-[B](chords/B.md)
+### [A](chords/A.md)
+
+### [A#](chords/A#.md)
+
+### [Bb](chords/Bb.md)
+
+### [B](chords/B.md)
+
 

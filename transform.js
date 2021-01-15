@@ -65,6 +65,11 @@ function renderChordPages() {
 }
 
 function renderChordsTOC() {
+	let chords = '';
+	for (const key of keys) {
+		chords += `### [${key}](chords/${key}.md)\n\n`;
+	}
+
 	let output = `<div align="center">
 	<h1>🎶 Ukulele Chords – Table of Contents</h1>
 	<p>
@@ -74,10 +79,14 @@ function renderChordsTOC() {
     	<a href="https://github.com/capevace/ukulele-chords"><code>ukulele-chords</code> utility tool</a>
 	</p>
 </div>
-<br>\n\n`;
-	for (const key of keys) {
-		output += `[${key}](chords/${key}.md)\n\n`;
-	}
+<br>\n\n
+
+## CLI Usage
+For info on how to use the command-line tool, please refer to the [Usage](usage.md) page.
+
+## List of Keys
+${chords}
+`;
 
 	fs.writeFileSync('docs/index.md', output);
 }

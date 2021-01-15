@@ -1,12 +1,10 @@
 {
   "name": "ukulele-chords",
   "version": "1.0.0",
-  "description": "",
-  "main": "generate-local-references.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "description": "A CLI tool that renders Ukulele chord SVGs.",
+  "main": "src/index.js",
+  "scripts": {},
+  "author": "Lukas Mateffy (@capevace)",
   "license": "MIT",
   "dependencies": {
     "commander": "^6.2.1",
