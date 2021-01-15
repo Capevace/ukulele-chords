@@ -52,7 +52,7 @@ function renderChordPages() {
 				const varNum = parseInt(index) + 1;
 				const filename = encodeURIComponent(`${chord}${index === 0 ? '' : '-' + varNum}.svg`);
 
-				output += `![${chord} | ${varNum}](${URL + filename}) `;
+				output += `![${chord} - ${varNum}](${URL + filename}) `;
 			}
 
 			output += '\n\n';
