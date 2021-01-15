@@ -8,6 +8,7 @@
 	</p>
 </div>
 <br>
+
 ## Gbmaj
 
 ![Gbmaj | 1](../../svgs/Gbmaj.svg) ![Gbmaj | 2](../../svgs/Gbmaj-2.svg) ![Gbmaj | 3](../../svgs/Gbmaj-3.svg) ![Gbmaj | 4](../../svgs/Gbmaj-4.svg) ![Gbmaj | 5](../../svgs/Gbmaj-5.svg) ![Gbmaj | 6](../../svgs/Gbmaj-6.svg) ![Gbmaj | 7](../../svgs/Gbmaj-7.svg) ![Gbmaj | 8](../../svgs/Gbmaj-8.svg) ![Gbmaj | 9](../../svgs/Gbmaj-9.svg) 

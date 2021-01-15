@@ -8,6 +8,7 @@
 	</p>
 </div>
 <br>
+
 ## Abmaj
 
 ![Abmaj | 1](../../svgs/Abmaj.svg) ![Abmaj | 2](../../svgs/Abmaj-2.svg) ![Abmaj | 3](../../svgs/Abmaj-3.svg) ![Abmaj | 4](../../svgs/Abmaj-4.svg) ![Abmaj | 5](../../svgs/Abmaj-5.svg) ![Abmaj | 6](../../svgs/Abmaj-6.svg) ![Abmaj | 7](../../svgs/Abmaj-7.svg) ![Abmaj | 8](../../svgs/Abmaj-8.svg) ![Abmaj | 9](../../svgs/Abmaj-9.svg) ![Abmaj | 10](../../svgs/Abmaj-10.svg) ![Abmaj | 11](../../svgs/Abmaj-11.svg) ![Abmaj | 12](../../svgs/Abmaj-12.svg) ![Abmaj | 13](../../svgs/Abmaj-13.svg) ![Abmaj | 14](../../svgs/Abmaj-14.svg) ![Abmaj | 15](../../svgs/Abmaj-15.svg) ![Abmaj | 16](../../svgs/Abmaj-16.svg) ![Abmaj | 17](../../svgs/Abmaj-17.svg) 

@@ -8,6 +8,7 @@
 	</p>
 </div>
 <br>
+
 ## C#maj
 
 ![C#maj | 1](../../svgs/C#maj.svg) ![C#maj | 2](../../svgs/C#maj-2.svg) ![C#maj | 3](../../svgs/C#maj-3.svg) ![C#maj | 4](../../svgs/C#maj-4.svg) ![C#maj | 5](../../svgs/C#maj-5.svg) ![C#maj | 6](../../svgs/C#maj-6.svg) ![C#maj | 7](../../svgs/C#maj-7.svg) ![C#maj | 8](../../svgs/C#maj-8.svg) ![C#maj | 9](../../svgs/C#maj-9.svg) ![C#maj | 10](../../svgs/C#maj-10.svg) ![C#maj | 11](../../svgs/C#maj-11.svg) 

@@ -8,6 +8,7 @@
 	</p>
 </div>
 <br>
+
 ## Amaj
 
 ![Amaj | 1](../../svgs/Amaj.svg) ![Amaj | 2](../../svgs/Amaj-2.svg) ![Amaj | 3](../../svgs/Amaj-3.svg) ![Amaj | 4](../../svgs/Amaj-4.svg) ![Amaj | 5](../../svgs/Amaj-5.svg) ![Amaj | 6](../../svgs/Amaj-6.svg) ![Amaj | 7](../../svgs/Amaj-7.svg) ![Amaj | 8](../../svgs/Amaj-8.svg) ![Amaj | 9](../../svgs/Amaj-9.svg) ![Amaj | 10](../../svgs/Amaj-10.svg) ![Amaj | 11](../../svgs/Amaj-11.svg) ![Amaj | 12](../../svgs/Amaj-12.svg) 

@@ -70,4 +70,4 @@ function renderChordsTOC() {
 }
 
 renderChordsTOC();
-// renderChordPages();
+renderChordPages();

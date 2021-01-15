@@ -8,6 +8,7 @@
 	</p>
 </div>
 <br>
+
 ## Cmaj
 
 ![Cmaj | 1](../../svgs/Cmaj.svg) ![Cmaj | 2](../../svgs/Cmaj-2.svg) ![Cmaj | 3](../../svgs/Cmaj-3.svg) ![Cmaj | 4](../../svgs/Cmaj-4.svg) ![Cmaj | 5](../../svgs/Cmaj-5.svg) ![Cmaj | 6](../../svgs/Cmaj-6.svg) ![Cmaj | 7](../../svgs/Cmaj-7.svg) ![Cmaj | 8](../../svgs/Cmaj-8.svg) ![Cmaj | 9](../../svgs/Cmaj-9.svg) ![Cmaj | 10](../../svgs/Cmaj-10.svg) ![Cmaj | 11](../../svgs/Cmaj-11.svg) ![Cmaj | 12](../../svgs/Cmaj-12.svg) ![Cmaj | 13](../../svgs/Cmaj-13.svg) ![Cmaj | 14](../../svgs/Cmaj-14.svg) 

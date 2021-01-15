@@ -8,6 +8,7 @@
 	</p>
 </div>
 <br>
+
 ## D#maj
 
 ![D#maj | 1](../../svgs/D#maj.svg) ![D#maj | 2](../../svgs/D#maj-2.svg) ![D#maj | 3](../../svgs/D#maj-3.svg) ![D#maj | 4](../../svgs/D#maj-4.svg) ![D#maj | 5](../../svgs/D#maj-5.svg) ![D#maj | 6](../../svgs/D#maj-6.svg) ![D#maj | 7](../../svgs/D#maj-7.svg) ![D#maj | 8](../../svgs/D#maj-8.svg) ![D#maj | 9](../../svgs/D#maj-9.svg) ![D#maj | 10](../../svgs/D#maj-10.svg) ![D#maj | 11](../../svgs/D#maj-11.svg) ![D#maj | 12](../../svgs/D#maj-12.svg) ![D#maj | 13](../../svgs/D#maj-13.svg) 

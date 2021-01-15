@@ -8,6 +8,7 @@
 	</p>
 </div>
 <br>
+
 ## Ebmaj
 
 ![Ebmaj | 1](../../svgs/Ebmaj.svg) ![Ebmaj | 2](../../svgs/Ebmaj-2.svg) ![Ebmaj | 3](../../svgs/Ebmaj-3.svg) ![Ebmaj | 4](../../svgs/Ebmaj-4.svg) ![Ebmaj | 5](../../svgs/Ebmaj-5.svg) ![Ebmaj | 6](../../svgs/Ebmaj-6.svg) ![Ebmaj | 7](../../svgs/Ebmaj-7.svg) ![Ebmaj | 8](../../svgs/Ebmaj-8.svg) ![Ebmaj | 9](../../svgs/Ebmaj-9.svg) ![Ebmaj | 10](../../svgs/Ebmaj-10.svg) ![Ebmaj | 11](../../svgs/Ebmaj-11.svg) ![Ebmaj | 12](../../svgs/Ebmaj-12.svg) ![Ebmaj | 13](../../svgs/Ebmaj-13.svg) 

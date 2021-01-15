@@ -8,6 +8,7 @@
 	</p>
 </div>
 <br>
+
 ## F#maj
 
 ![F#maj | 1](../../svgs/F#maj.svg) ![F#maj | 2](../../svgs/F#maj-2.svg) ![F#maj | 3](../../svgs/F#maj-3.svg) ![F#maj | 4](../../svgs/F#maj-4.svg) ![F#maj | 5](../../svgs/F#maj-5.svg) ![F#maj | 6](../../svgs/F#maj-6.svg) ![F#maj | 7](../../svgs/F#maj-7.svg) ![F#maj | 8](../../svgs/F#maj-8.svg) ![F#maj | 9](../../svgs/F#maj-9.svg) 
