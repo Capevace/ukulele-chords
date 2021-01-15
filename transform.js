@@ -91,5 +91,5 @@ ${chords}
 	fs.writeFileSync('docs/index.md', output);
 }
 
-renderChordsTOC();
+// renderChordsTOC();
 renderChordPages();
