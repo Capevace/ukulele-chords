@@ -72,7 +72,7 @@
 
 ## Eb7#9
 
-![Eb7#9 | 1](../../svgs/Eb7#9.svg) ![Eb7#9 | 2](../../svgs/Eb7#9-2.svg) ![Eb7#9 | 3](../../svgs/Eb7#9-3.svg) 
+![Eb7#9 | 1](../../svgs/Eb7%239.svg) ![Eb7#9 | 2](../../svgs/Eb7%239-2.svg) ![Eb7#9 | 3](../../svgs/Eb7%239-3.svg) 
 
 ## Eb11
 
@@ -80,7 +80,7 @@
 
 ## Eb9#11
 
-![Eb9#11 | 1](../../svgs/Eb9#11.svg) ![Eb9#11 | 2](../../svgs/Eb9#11-2.svg) ![Eb9#11 | 3](../../svgs/Eb9#11-3.svg) ![Eb9#11 | 4](../../svgs/Eb9#11-4.svg) ![Eb9#11 | 5](../../svgs/Eb9#11-5.svg) ![Eb9#11 | 6](../../svgs/Eb9#11-6.svg) ![Eb9#11 | 7](../../svgs/Eb9#11-7.svg) ![Eb9#11 | 8](../../svgs/Eb9#11-8.svg) ![Eb9#11 | 9](../../svgs/Eb9#11-9.svg) ![Eb9#11 | 10](../../svgs/Eb9#11-10.svg) ![Eb9#11 | 11](../../svgs/Eb9#11-11.svg) ![Eb9#11 | 12](../../svgs/Eb9#11-12.svg) ![Eb9#11 | 13](../../svgs/Eb9#11-13.svg) ![Eb9#11 | 14](../../svgs/Eb9#11-14.svg) ![Eb9#11 | 15](../../svgs/Eb9#11-15.svg) ![Eb9#11 | 16](../../svgs/Eb9#11-16.svg) ![Eb9#11 | 17](../../svgs/Eb9#11-17.svg) ![Eb9#11 | 18](../../svgs/Eb9#11-18.svg) ![Eb9#11 | 19](../../svgs/Eb9#11-19.svg) ![Eb9#11 | 20](../../svgs/Eb9#11-20.svg) 
+![Eb9#11 | 1](../../svgs/Eb9%2311.svg) ![Eb9#11 | 2](../../svgs/Eb9%2311-2.svg) ![Eb9#11 | 3](../../svgs/Eb9%2311-3.svg) ![Eb9#11 | 4](../../svgs/Eb9%2311-4.svg) ![Eb9#11 | 5](../../svgs/Eb9%2311-5.svg) ![Eb9#11 | 6](../../svgs/Eb9%2311-6.svg) ![Eb9#11 | 7](../../svgs/Eb9%2311-7.svg) ![Eb9#11 | 8](../../svgs/Eb9%2311-8.svg) ![Eb9#11 | 9](../../svgs/Eb9%2311-9.svg) ![Eb9#11 | 10](../../svgs/Eb9%2311-10.svg) ![Eb9#11 | 11](../../svgs/Eb9%2311-11.svg) ![Eb9#11 | 12](../../svgs/Eb9%2311-12.svg) ![Eb9#11 | 13](../../svgs/Eb9%2311-13.svg) ![Eb9#11 | 14](../../svgs/Eb9%2311-14.svg) ![Eb9#11 | 15](../../svgs/Eb9%2311-15.svg) ![Eb9#11 | 16](../../svgs/Eb9%2311-16.svg) ![Eb9#11 | 17](../../svgs/Eb9%2311-17.svg) ![Eb9#11 | 18](../../svgs/Eb9%2311-18.svg) ![Eb9#11 | 19](../../svgs/Eb9%2311-19.svg) ![Eb9#11 | 20](../../svgs/Eb9%2311-20.svg) 
 
 ## Eb13
 
@@ -100,7 +100,7 @@
 
 ## Ebmaj7#5
 
-![Ebmaj7#5 | 1](../../svgs/Ebmaj7#5.svg) ![Ebmaj7#5 | 2](../../svgs/Ebmaj7#5-2.svg) ![Ebmaj7#5 | 3](../../svgs/Ebmaj7#5-3.svg) ![Ebmaj7#5 | 4](../../svgs/Ebmaj7#5-4.svg) 
+![Ebmaj7#5 | 1](../../svgs/Ebmaj7%235.svg) ![Ebmaj7#5 | 2](../../svgs/Ebmaj7%235-2.svg) ![Ebmaj7#5 | 3](../../svgs/Ebmaj7%235-3.svg) ![Ebmaj7#5 | 4](../../svgs/Ebmaj7%235-4.svg) 
 
 ## Ebmaj9
 

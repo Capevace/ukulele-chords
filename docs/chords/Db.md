@@ -72,7 +72,7 @@
 
 ## Db7#9
 
-![Db7#9 | 1](../../svgs/Db7#9.svg) 
+![Db7#9 | 1](../../svgs/Db7%239.svg) 
 
 ## Db11
 
@@ -80,7 +80,7 @@
 
 ## Db9#11
 
-![Db9#11 | 1](../../svgs/Db9#11.svg) ![Db9#11 | 2](../../svgs/Db9#11-2.svg) ![Db9#11 | 3](../../svgs/Db9#11-3.svg) ![Db9#11 | 4](../../svgs/Db9#11-4.svg) ![Db9#11 | 5](../../svgs/Db9#11-5.svg) ![Db9#11 | 6](../../svgs/Db9#11-6.svg) ![Db9#11 | 7](../../svgs/Db9#11-7.svg) ![Db9#11 | 8](../../svgs/Db9#11-8.svg) ![Db9#11 | 9](../../svgs/Db9#11-9.svg) ![Db9#11 | 10](../../svgs/Db9#11-10.svg) ![Db9#11 | 11](../../svgs/Db9#11-11.svg) ![Db9#11 | 12](../../svgs/Db9#11-12.svg) ![Db9#11 | 13](../../svgs/Db9#11-13.svg) 
+![Db9#11 | 1](../../svgs/Db9%2311.svg) ![Db9#11 | 2](../../svgs/Db9%2311-2.svg) ![Db9#11 | 3](../../svgs/Db9%2311-3.svg) ![Db9#11 | 4](../../svgs/Db9%2311-4.svg) ![Db9#11 | 5](../../svgs/Db9%2311-5.svg) ![Db9#11 | 6](../../svgs/Db9%2311-6.svg) ![Db9#11 | 7](../../svgs/Db9%2311-7.svg) ![Db9#11 | 8](../../svgs/Db9%2311-8.svg) ![Db9#11 | 9](../../svgs/Db9%2311-9.svg) ![Db9#11 | 10](../../svgs/Db9%2311-10.svg) ![Db9#11 | 11](../../svgs/Db9%2311-11.svg) ![Db9#11 | 12](../../svgs/Db9%2311-12.svg) ![Db9#11 | 13](../../svgs/Db9%2311-13.svg) 
 
 ## Db13
 
@@ -100,7 +100,7 @@
 
 ## Dbmaj7#5
 
-![Dbmaj7#5 | 1](../../svgs/Dbmaj7#5.svg) ![Dbmaj7#5 | 2](../../svgs/Dbmaj7#5-2.svg) ![Dbmaj7#5 | 3](../../svgs/Dbmaj7#5-3.svg) ![Dbmaj7#5 | 4](../../svgs/Dbmaj7#5-4.svg) ![Dbmaj7#5 | 5](../../svgs/Dbmaj7#5-5.svg) 
+![Dbmaj7#5 | 1](../../svgs/Dbmaj7%235.svg) ![Dbmaj7#5 | 2](../../svgs/Dbmaj7%235-2.svg) ![Dbmaj7#5 | 3](../../svgs/Dbmaj7%235-3.svg) ![Dbmaj7#5 | 4](../../svgs/Dbmaj7%235-4.svg) ![Dbmaj7#5 | 5](../../svgs/Dbmaj7%235-5.svg) 
 
 ## Dbmaj9
 

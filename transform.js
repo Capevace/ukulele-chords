@@ -49,7 +49,7 @@ function renderChordPages() {
 			for (let index in variations) {
 				index = parseInt(index);
 				const varNum = parseInt(index) + 1;
-				const filename = `${chord}${index === 0 ? '' : '-' + varNum}.svg`;
+				const filename = encodeURIComponent(`${chord}${index === 0 ? '' : '-' + varNum}.svg`);
 
 				output += `![${chord} | ${varNum}](${RELATIVE_PATH + filename}) `;
 			}

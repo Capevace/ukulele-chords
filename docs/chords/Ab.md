@@ -72,7 +72,7 @@
 
 ## Ab7#9
 
-![Ab7#9 | 1](../../svgs/Ab7#9.svg) 
+![Ab7#9 | 1](../../svgs/Ab7%239.svg) 
 
 ## Ab11
 
@@ -80,7 +80,7 @@
 
 ## Ab9#11
 
-![Ab9#11 | 1](../../svgs/Ab9#11.svg) ![Ab9#11 | 2](../../svgs/Ab9#11-2.svg) ![Ab9#11 | 3](../../svgs/Ab9#11-3.svg) ![Ab9#11 | 4](../../svgs/Ab9#11-4.svg) ![Ab9#11 | 5](../../svgs/Ab9#11-5.svg) ![Ab9#11 | 6](../../svgs/Ab9#11-6.svg) ![Ab9#11 | 7](../../svgs/Ab9#11-7.svg) ![Ab9#11 | 8](../../svgs/Ab9#11-8.svg) ![Ab9#11 | 9](../../svgs/Ab9#11-9.svg) ![Ab9#11 | 10](../../svgs/Ab9#11-10.svg) ![Ab9#11 | 11](../../svgs/Ab9#11-11.svg) ![Ab9#11 | 12](../../svgs/Ab9#11-12.svg) ![Ab9#11 | 13](../../svgs/Ab9#11-13.svg) ![Ab9#11 | 14](../../svgs/Ab9#11-14.svg) ![Ab9#11 | 15](../../svgs/Ab9#11-15.svg) 
+![Ab9#11 | 1](../../svgs/Ab9%2311.svg) ![Ab9#11 | 2](../../svgs/Ab9%2311-2.svg) ![Ab9#11 | 3](../../svgs/Ab9%2311-3.svg) ![Ab9#11 | 4](../../svgs/Ab9%2311-4.svg) ![Ab9#11 | 5](../../svgs/Ab9%2311-5.svg) ![Ab9#11 | 6](../../svgs/Ab9%2311-6.svg) ![Ab9#11 | 7](../../svgs/Ab9%2311-7.svg) ![Ab9#11 | 8](../../svgs/Ab9%2311-8.svg) ![Ab9#11 | 9](../../svgs/Ab9%2311-9.svg) ![Ab9#11 | 10](../../svgs/Ab9%2311-10.svg) ![Ab9#11 | 11](../../svgs/Ab9%2311-11.svg) ![Ab9#11 | 12](../../svgs/Ab9%2311-12.svg) ![Ab9#11 | 13](../../svgs/Ab9%2311-13.svg) ![Ab9#11 | 14](../../svgs/Ab9%2311-14.svg) ![Ab9#11 | 15](../../svgs/Ab9%2311-15.svg) 
 
 ## Ab13
 
@@ -100,7 +100,7 @@
 
 ## Abmaj7#5
 
-![Abmaj7#5 | 1](../../svgs/Abmaj7#5.svg) ![Abmaj7#5 | 2](../../svgs/Abmaj7#5-2.svg) ![Abmaj7#5 | 3](../../svgs/Abmaj7#5-3.svg) ![Abmaj7#5 | 4](../../svgs/Abmaj7#5-4.svg) ![Abmaj7#5 | 5](../../svgs/Abmaj7#5-5.svg) ![Abmaj7#5 | 6](../../svgs/Abmaj7#5-6.svg) ![Abmaj7#5 | 7](../../svgs/Abmaj7#5-7.svg) 
+![Abmaj7#5 | 1](../../svgs/Abmaj7%235.svg) ![Abmaj7#5 | 2](../../svgs/Abmaj7%235-2.svg) ![Abmaj7#5 | 3](../../svgs/Abmaj7%235-3.svg) ![Abmaj7#5 | 4](../../svgs/Abmaj7%235-4.svg) ![Abmaj7#5 | 5](../../svgs/Abmaj7%235-5.svg) ![Abmaj7#5 | 6](../../svgs/Abmaj7%235-6.svg) ![Abmaj7#5 | 7](../../svgs/Abmaj7%235-7.svg) 
 
 ## Abmaj9
 
