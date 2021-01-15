@@ -67,10 +67,6 @@ program
 		'-f, --force',
 		'force append a reference (even if it already exists)'
 	)
-	.option(
-		'-l, --local-path',
-		"SVG Path is local (filename won't be encoded as URL component)"
-	)
 	.action((file, chords, cmd) => {
 		// ChordSVGs
 		const baseSvgPath =
