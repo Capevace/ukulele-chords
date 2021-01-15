@@ -30,7 +30,7 @@ function renderChordPages() {
 		${suffixes
 			.map(suffix => key + suffix)
 			.filter(chord => !!chords[chord])
-			.map(chord => `<a href="#${chord}">${chord}</a>`)
+			.map(chord => `<a href="#${encodeURIComponent(chord)}">${chord}</a>`)
 			.join(', ')
 		}
 	</p>
