@@ -1,12 +1,13 @@
 const fs = require('fs');
-const { chords, keys, suffixes } = require('./src/chords');
+const path = require('path');
+const { chords, keys, suffixes } = require('../src/chords');
 
 const URL = 'https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/';
 const RELATIVE_PATH = '../../svgs/';
 
 function renderChordPages() {
 	for (const key of keys) {
-		let output = `[← Back to Keys](../index.md)
+		let output = `[← Back to Keys](../../README.md)
 
 <div align="center">
 	<h1>🎶 Ukulele Chords – ${key}</h1>
@@ -49,7 +50,7 @@ function renderChordPages() {
 			output += '\n\n';
 		}
 
-		fs.writeFileSync(`docs/chords/${key}.md`, output);
+		fs.writeFileSync(path.resolve(__dirname, `../docs/chords/${key}.md`), output);
 	}
 }
 
@@ -77,7 +78,7 @@ For info on how to use the command-line tool, please refer to the [Usage](usage.
 ${chords}
 `;
 
-	fs.writeFileSync('docs/index.md', output);
+	fs.writeFileSync(path.resolve(__dirname, 'docs/index.md'), output);
 }
 
 // renderChordsTOC();
