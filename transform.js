@@ -13,6 +13,7 @@ function cleanData(data) {
 }
 //fs.writeFileSync('ukulele-chords-4.json', JSON.stringify(cleanData(data), null, 2));
 
+const URL = 'https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/';
 const RELATIVE_PATH = '../../svgs/';
 function renderChordPages() {
 	for (const key of keys) {
@@ -51,7 +52,7 @@ function renderChordPages() {
 				const varNum = parseInt(index) + 1;
 				const filename = encodeURIComponent(`${chord}${index === 0 ? '' : '-' + varNum}.svg`);
 
-				output += `![${chord} | ${varNum}](${RELATIVE_PATH + filename}) `;
+				output += `![${chord} | ${varNum}](${URL + filename}) `;
 			}
 
 			output += '\n\n';
