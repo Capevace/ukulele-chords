@@ -17,7 +17,7 @@ npm install -g ukulele-chords
 
 ### `render <chord> [variation]`: 
 **Render a chord as SVG.**
-- *-o, --output-path <path>*: The output path/file (if empty SVG will be printed to stdout)
+- *-o, --output-path &lt;path&gt;*: The output path/file (if empty SVG will be printed to stdout)
 
 ### `all [folderPath]`: 
 **Render all chords to SVG.**
@@ -25,5 +25,5 @@ npm install -g ukulele-chords
 
 ### `append <file> <...chords>`: 
 **Append a markdown image reference (to the chord SVG) to a file.**
-- *-p, --svg-path <path>*: The path to be used to link the svgs. This refers to the URL used for the image in the markdown image reference (e.g. `[E#]: PATH/E#.svg`). Defaults to this repos URLs.
+- *-p, --svg-path &lt;path&gt;*: The path to be used to link the svgs. This refers to the URL used for the image in the markdown image reference (e.g. `[E#]: PATH/E#.svg`). Defaults to this repos URLs.
 - *-f, --force*: force append a reference (even if it already exists)`
