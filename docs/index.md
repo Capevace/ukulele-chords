@@ -9,8 +9,6 @@
 </div>
 <br>
 
-## Wat
-
 [C](chords/C.md)
 
 [C#](chords/C#.md)
