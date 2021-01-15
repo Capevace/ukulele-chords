@@ -1,6 +1,6 @@
 [Back to Keys](../index.md)
-		
-		<div align="center">
+
+<div align="center">
 	<h1>🎶 Ukulele Chords – Ab</h1>
 	<p>
 		<strong>Tuning:</strong> GCAE

@@ -18,8 +18,8 @@ const RELATIVE_PATH = '../../svgs/';
 function renderChordPages() {
 	for (const key of keys) {
 		let output = `[Back to Keys](../index.md)
-		
-		<div align="center">
+
+<div align="center">
 	<h1>🎶 Ukulele Chords – ${key}</h1>
 	<p>
 		<strong>Tuning:</strong> GCAE
