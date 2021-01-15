@@ -11,38 +11,38 @@
 For info on how to use the command-line tool, please refer to the [Usage](usage.md) page.
 
 ## List of Keys
-### [C](chords/C.md)
+### [C](docs/chords/C.md)
 
-### [C#](chords/C#.md)
+### [C#](docs/chords/C#.md)
 
-### [Db](chords/Db.md)
+### [Db](docs/chords/Db.md)
 
-### [D](chords/D.md)
+### [D](docs/chords/D.md)
 
-### [D#](chords/D#.md)
+### [D#](docs/chords/D#.md)
 
-### [Eb](chords/Eb.md)
+### [Eb](docs/chords/Eb.md)
 
-### [E](chords/E.md)
+### [E](docs/chords/E.md)
 
-### [F](chords/F.md)
+### [F](docs/chords/F.md)
 
-### [F#](chords/F#.md)
+### [F#](docs/chords/F#.md)
 
-### [Gb](chords/Gb.md)
+### [Gb](docs/chords/Gb.md)
 
-### [G](chords/G.md)
+### [G](docs/chords/G.md)
 
-### [G#](chords/G#.md)
+### [G#](docs/chords/G#.md)
 
-### [Ab](chords/Ab.md)
+### [Ab](docs/chords/Ab.md)
 
-### [A](chords/A.md)
+### [A](docs/chords/A.md)
 
-### [A#](chords/A#.md)
+### [A#](docs/chords/A#.md)
 
-### [Bb](chords/Bb.md)
+### [Bb](docs/chords/Bb.md)
 
-### [B](chords/B.md)
+### [B](docs/chords/B.md)
 
 
