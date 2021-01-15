@@ -42,10 +42,12 @@ program
 program
 	.command('all [folderPath]')
 	.description('render all chords to SVG')
-	.action((outputPath) => {
+	.option('-v, --variations', 'render all variations as well')
+	.action((outputPath, cmd) => {
 		renderAllChords({
 			outputPath: path.resolve(outputPath),
 			fingerColors: program.colors,
+			outputVariations: cmd.variations
 		});
 	});
 

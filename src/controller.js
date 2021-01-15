@@ -56,25 +56,36 @@ module.exports.renderChord = function renderChord(chord, variation = 0, options)
 /**
  * Render all chords to SVG.
  *
- * @param {{ outputPath: string, fingerColors: boolean }} options
+ * @param {{ outputPath: string, fingerColors: boolean, outputVariations: boolean }} options
  */ 
 module.exports.renderAllChords = function renderAllChords(options) {
 	options = {
 		outputPath: null,
 		fingerColors: false,
+		outputVariations: false,
 		...options
 	};
 
 	for (const chordName of Object.keys(chords)) {
-		const chord = chords[chordName][0];
+		const variations = chords[chordName];
+		const loopEnd = options.outputVariations
+			? variations.length
+			: 1;
 
-		if (!chord) continue;
+		for (let i = 0; i < loopEnd; i++) {
+			const chord = variations[i];
 
-		const file = path.join(options.outputPath || process.cwd(), `${chordName}.svg`);
-		const svg = draw(chordName, chord, { fingerColors: options.fingerColors });
+			if (!chord) continue;
 
-		console.log('Writing', chordName, 'to', file);
-		fs.writeFileSync(file, svg);
+			const file = path.join(
+				options.outputPath || process.cwd(), 
+				`${chordName}${i === 0 ? '' : '-' + (i + 1)}.svg`
+			);
+			const svg = draw(chordName, chord, { fingerColors: options.fingerColors });
+
+			console.log('Writing', chordName, 'to', file);
+			fs.writeFileSync(file, svg);
+		}
 	}
 
 	console.log('Finished!');

@@ -1,11 +1,38 @@
 const fs = require('fs');
-let data = require('./ukulele-chords-3.json');
+const { chords } = require('./src/chords');
 
-let newData = {};
+// Cleanup scraped data
+function cleanData(data) {
+	let newData = {};
 
-for (const chord of Object.keys(data)) {
-	newData[chord] = data[chord].map(variation => ({ ...variation, baseDisplayNote: undefined }));
+	for (const chord of Object.keys(data)) {
+		newData[chord] = data[chord].map(variation => ({ ...variation, baseDisplayNote: undefined }));
+	}
+
+	return data;
+}
+//fs.writeFileSync('ukulele-chords-4.json', JSON.stringify(cleanData(data), null, 2));
+
+const HOST_URL = 'https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/';
+const RELATIVE_PATH = 'svgs/';
+function chordDemoMarkdown(relative = true) {
+	let output = '';
+
+	for (const chord of Object.keys(chords)) {
+		const variations = chords[chord];
+		output += `## ${chord}\n`;
+
+		for (const index in variations) {
+			const varNum = parseInt(index) + 1;
+			const filename = `${chord}${index === 0 ? '' : '-' + varNum}.svg`;
+
+			output += `![${chord} | ${varNum}](${(relative ? RELATIVE_PATH : HOST_URL) + filename}) `;
+		}
+
+		output += '\n';
+	}
+
+	return output;
 }
 
-fs.writeFileSync('ukulele-chords-4.json', JSON.stringify(newData, null, 2))
-
+console.log(chordDemoMarkdown());
