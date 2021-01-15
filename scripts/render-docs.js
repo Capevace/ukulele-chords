@@ -1,20 +1,9 @@
 const fs = require('fs');
 const { chords, keys, suffixes } = require('./src/chords');
 
-// Cleanup scraped data
-function cleanData(data) {
-	let newData = {};
-
-	for (const chord of Object.keys(data)) {
-		newData[chord] = data[chord].map(variation => ({ ...variation, baseDisplayNote: undefined }));
-	}
-
-	return data;
-}
-//fs.writeFileSync('ukulele-chords-4.json', JSON.stringify(cleanData(data), null, 2));
-
 const URL = 'https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/';
 const RELATIVE_PATH = '../../svgs/';
+
 function renderChordPages() {
 	for (const key of keys) {
 		let output = `[← Back to Keys](../index.md)
