@@ -62,13 +62,13 @@ function renderChordsTOC() {
 	</p>
 </div>
 <br>\n\n`;
-
+	output += '## Wat\n\n';
 	for (const key of keys) {
-		output += `[${key}](chords/${key}.md)\n`;
+		output += `[${key}](chords/${key}.md)\n\n`;
 	}
 
 	fs.writeFileSync('docs/index.md', output);
 }
 
 renderChordsTOC();
-renderChordPages();
+// renderChordPages();
