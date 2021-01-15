@@ -22,10 +22,15 @@ function renderChordPages() {
 		<strong>Tuning:</strong> GCAE
 	</p>
 	<p>
-    <a href="https://github.com/capevace/ukulele-chords"><code>ukulele-chords</code> utility tool</a>
+    	<a href="https://github.com/capevace/ukulele-chords"><code>ukulele-chords</code> utility tool</a>
+	</p>
+	<br>
+	<p>
+		${suffixes.map(suffix => `<a href="#${key+suffix}">${key + suffix}</a> `)}
 	</p>
 </div>
-<br>\n\n`;
+<br>\n\n
+`;
 
 		for (const suffix of suffixes) {
 			const chord = key + suffix;
@@ -58,7 +63,7 @@ function renderChordsTOC() {
 		<strong>Tuning:</strong> GCAE
 	</p>
 	<p>
-    <a href="https://github.com/capevace/ukulele-chords"><code>ukulele-chords</code> utility tool</a>
+    	<a href="https://github.com/capevace/ukulele-chords"><code>ukulele-chords</code> utility tool</a>
 	</p>
 </div>
 <br>\n\n`;

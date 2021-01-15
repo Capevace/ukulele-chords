@@ -4,10 +4,15 @@
 		<strong>Tuning:</strong> GCAE
 	</p>
 	<p>
-    <a href="https://github.com/capevace/ukulele-chords"><code>ukulele-chords</code> utility tool</a>
+    	<a href="https://github.com/capevace/ukulele-chords"><code>ukulele-chords</code> utility tool</a>
+	</p>
+	<br>
+	<p>
+		<a href="#Dmaj">Dmaj</a> ,<a href="#Dm">Dm</a> ,<a href="#Ddim">Ddim</a> ,<a href="#Ddim7">Ddim7</a> ,<a href="#Dsus2">Dsus2</a> ,<a href="#Dsus4">Dsus4</a> ,<a href="#D7sus4">D7sus4</a> ,<a href="#Dalt">Dalt</a> ,<a href="#Daug">Daug</a> ,<a href="#D6">D6</a> ,<a href="#D69">D69</a> ,<a href="#D7">D7</a> ,<a href="#D7b5">D7b5</a> ,<a href="#Daug7">Daug7</a> ,<a href="#D9">D9</a> ,<a href="#D9b5">D9b5</a> ,<a href="#Daug9">Daug9</a> ,<a href="#D7b9">D7b9</a> ,<a href="#D7b9#5">D7b9#5</a> ,<a href="#D7#9">D7#9</a> ,<a href="#D11">D11</a> ,<a href="#D9#11">D9#11</a> ,<a href="#D13">D13</a> ,<a href="#D13b9">D13b9</a> ,<a href="#D13b5b9">D13b5b9</a> ,<a href="#Db13b9">Db13b9</a> ,<a href="#Db13#9">Db13#9</a> ,<a href="#Dmaj7">Dmaj7</a> ,<a href="#Dmaj7b5">Dmaj7b5</a> ,<a href="#Dmaj7#5">Dmaj7#5</a> ,<a href="#Dmaj9">Dmaj9</a> ,<a href="#Dmaj11">Dmaj11</a> ,<a href="#Dmaj13">Dmaj13</a> ,<a href="#Dm6">Dm6</a> ,<a href="#Dm7">Dm7</a> ,<a href="#Dm7b5">Dm7b5</a> ,<a href="#Dm9">Dm9</a> ,<a href="#Dm69">Dm69</a> ,<a href="#Dm9b5">Dm9b5</a> ,<a href="#Dm11">Dm11</a> ,<a href="#Dmmaj7">Dmmaj7</a> ,<a href="#Dmmaj7b5">Dmmaj7b5</a> ,<a href="#Dmmaj9">Dmmaj9</a> ,<a href="#Dmmaj11">Dmmaj11</a> ,<a href="#Dadd9">Dadd9</a> ,<a href="#Dmadd9">Dmadd9</a> 
 	</p>
 </div>
 <br>
+
 
 ## Dmaj
 

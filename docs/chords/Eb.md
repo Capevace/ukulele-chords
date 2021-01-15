@@ -4,10 +4,15 @@
 		<strong>Tuning:</strong> GCAE
 	</p>
 	<p>
-    <a href="https://github.com/capevace/ukulele-chords"><code>ukulele-chords</code> utility tool</a>
+    	<a href="https://github.com/capevace/ukulele-chords"><code>ukulele-chords</code> utility tool</a>
+	</p>
+	<br>
+	<p>
+		<a href="#Ebmaj">Ebmaj</a> ,<a href="#Ebm">Ebm</a> ,<a href="#Ebdim">Ebdim</a> ,<a href="#Ebdim7">Ebdim7</a> ,<a href="#Ebsus2">Ebsus2</a> ,<a href="#Ebsus4">Ebsus4</a> ,<a href="#Eb7sus4">Eb7sus4</a> ,<a href="#Ebalt">Ebalt</a> ,<a href="#Ebaug">Ebaug</a> ,<a href="#Eb6">Eb6</a> ,<a href="#Eb69">Eb69</a> ,<a href="#Eb7">Eb7</a> ,<a href="#Eb7b5">Eb7b5</a> ,<a href="#Ebaug7">Ebaug7</a> ,<a href="#Eb9">Eb9</a> ,<a href="#Eb9b5">Eb9b5</a> ,<a href="#Ebaug9">Ebaug9</a> ,<a href="#Eb7b9">Eb7b9</a> ,<a href="#Eb7b9#5">Eb7b9#5</a> ,<a href="#Eb7#9">Eb7#9</a> ,<a href="#Eb11">Eb11</a> ,<a href="#Eb9#11">Eb9#11</a> ,<a href="#Eb13">Eb13</a> ,<a href="#Eb13b9">Eb13b9</a> ,<a href="#Eb13b5b9">Eb13b5b9</a> ,<a href="#Ebb13b9">Ebb13b9</a> ,<a href="#Ebb13#9">Ebb13#9</a> ,<a href="#Ebmaj7">Ebmaj7</a> ,<a href="#Ebmaj7b5">Ebmaj7b5</a> ,<a href="#Ebmaj7#5">Ebmaj7#5</a> ,<a href="#Ebmaj9">Ebmaj9</a> ,<a href="#Ebmaj11">Ebmaj11</a> ,<a href="#Ebmaj13">Ebmaj13</a> ,<a href="#Ebm6">Ebm6</a> ,<a href="#Ebm7">Ebm7</a> ,<a href="#Ebm7b5">Ebm7b5</a> ,<a href="#Ebm9">Ebm9</a> ,<a href="#Ebm69">Ebm69</a> ,<a href="#Ebm9b5">Ebm9b5</a> ,<a href="#Ebm11">Ebm11</a> ,<a href="#Ebmmaj7">Ebmmaj7</a> ,<a href="#Ebmmaj7b5">Ebmmaj7b5</a> ,<a href="#Ebmmaj9">Ebmmaj9</a> ,<a href="#Ebmmaj11">Ebmmaj11</a> ,<a href="#Ebadd9">Ebadd9</a> ,<a href="#Ebmadd9">Ebmadd9</a> 
 	</p>
 </div>
 <br>
+
 
 ## Ebmaj
 
