@@ -34,7 +34,7 @@ function renderChordPages() {
 			if (!variations)
 				continue;
 
-			output += `## ${chord}\n`;
+			output += `## ${chord}\n\n`;
 
 			for (let index in variations) {
 				index = parseInt(index);
@@ -44,7 +44,7 @@ function renderChordPages() {
 				output += `![${chord} | ${varNum}](${RELATIVE_PATH + filename}) `;
 			}
 
-			output += '\n';
+			output += '\n\n';
 		}
 
 		fs.writeFileSync(`docs/chords/${key}.md`, output);
