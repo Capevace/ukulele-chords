@@ -10,6 +10,8 @@
 ## CLI Usage
 For info on how to use the command-line tool, please refer to the [Usage](usage.md) page.
 
+<a href="docs/usage.md"><img src="svgs/A#.svg" /></a>
+
 ## List of Keys
 ### [C](docs/chords/C.md)
 
