@@ -25,7 +25,7 @@ function renderChordPages() {
     <a href="https://github.com/capevace/ukulele-chords"><code>ukulele-chords</code> utility tool</a>
 	</p>
 </div>
-<br>\n`;
+<br>\n\n`;
 
 		for (const suffix of suffixes) {
 			const chord = key + suffix;
@@ -61,7 +61,7 @@ function renderChordsTOC() {
     <a href="https://github.com/capevace/ukulele-chords"><code>ukulele-chords</code> utility tool</a>
 	</p>
 </div>
-<br>\n`;
+<br>\n\n`;
 
 	for (const key of keys) {
 		output += `[${key}](chords/${key}.md)\n`;
