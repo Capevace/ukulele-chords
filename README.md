@@ -2,13 +2,13 @@
 	<h1>🎶 Ukulele Chords</h1>
 	<p>A CLI tool that renders Ukulele chord SVGs.</p>
 	<p>
-    	<a href="https://github.com/Capevace/ukulele-chords/blob/main/docs/usage.md"><code>ukulele-chords</code> CLI usage</a>
+    	<a href="docs/usage.md"><code>ukulele-chords</code> CLI usage</a>
 	</p>
 </div>
 <br>
 
 ## CLI Usage
-For info on how to use the command-line tool, please refer to the [Usage](usage.md) page.
+For info on how to use the command-line tool, please refer to the [Usage](docs/usage.md) page.
 
 ## List of Keys
 ### [C](docs/chords/C.md)
