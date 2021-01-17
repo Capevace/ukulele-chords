@@ -10,11 +10,15 @@
 	</p>
 	<br>
 	<p>
-		<a href="#gbmaj">Gbmaj</a>, <a href="#gbm">Gbm</a>, <a href="#gbdim">Gbdim</a>, <a href="#gbdim7">Gbdim7</a>, <a href="#gbsus2">Gbsus2</a>, <a href="#gbsus4">Gbsus4</a>, <a href="#gb7sus4">Gb7sus4</a>, <a href="#gbaug">Gbaug</a>, <a href="#gb6">Gb6</a>, <a href="#gb7">Gb7</a>, <a href="#gb7b5">Gb7b5</a>, <a href="#gb9">Gb9</a>, <a href="#gb9b5">Gb9b5</a>, <a href="#gb7b9">Gb7b9</a>, <a href="#gb79">Gb7#9</a>, <a href="#gb11">Gb11</a>, <a href="#gb911">Gb9#11</a>, <a href="#gb13">Gb13</a>, <a href="#gb13b9">Gb13b9</a>, <a href="#gbmaj7">Gbmaj7</a>, <a href="#gbmaj7b5">Gbmaj7b5</a>, <a href="#gbmaj75">Gbmaj7#5</a>, <a href="#gbmaj9">Gbmaj9</a>, <a href="#gbmaj11">Gbmaj11</a>, <a href="#gbmaj13">Gbmaj13</a>, <a href="#gbm6">Gbm6</a>, <a href="#gbm7">Gbm7</a>, <a href="#gbm7b5">Gbm7b5</a>, <a href="#gbm9">Gbm9</a>, <a href="#gbm11">Gbm11</a>, <a href="#gbmmaj7">Gbmmaj7</a>, <a href="#gbmmaj9">Gbmmaj9</a>, <a href="#gbmmaj11">Gbmmaj11</a>, <a href="#gbadd9">Gbadd9</a>, <a href="#gbmadd9">Gbmadd9</a>
+		<a href="#gb">Gb</a>, <a href="#gbmaj">Gbmaj</a>, <a href="#gbm">Gbm</a>, <a href="#gbdim">Gbdim</a>, <a href="#gbdim7">Gbdim7</a>, <a href="#gbsus2">Gbsus2</a>, <a href="#gbsus4">Gbsus4</a>, <a href="#gb7sus4">Gb7sus4</a>, <a href="#gbaug">Gbaug</a>, <a href="#gb6">Gb6</a>, <a href="#gb7">Gb7</a>, <a href="#gb7b5">Gb7b5</a>, <a href="#gb9">Gb9</a>, <a href="#gb9b5">Gb9b5</a>, <a href="#gb7b9">Gb7b9</a>, <a href="#gb79">Gb7#9</a>, <a href="#gb11">Gb11</a>, <a href="#gb911">Gb9#11</a>, <a href="#gb13">Gb13</a>, <a href="#gb13b9">Gb13b9</a>, <a href="#gbmaj7">Gbmaj7</a>, <a href="#gbmaj7b5">Gbmaj7b5</a>, <a href="#gbmaj75">Gbmaj7#5</a>, <a href="#gbmaj9">Gbmaj9</a>, <a href="#gbmaj11">Gbmaj11</a>, <a href="#gbmaj13">Gbmaj13</a>, <a href="#gbm6">Gbm6</a>, <a href="#gbm7">Gbm7</a>, <a href="#gbm7b5">Gbm7b5</a>, <a href="#gbm9">Gbm9</a>, <a href="#gbm11">Gbm11</a>, <a href="#gbmmaj7">Gbmmaj7</a>, <a href="#gbmmaj9">Gbmmaj9</a>, <a href="#gbmmaj11">Gbmmaj11</a>, <a href="#gbadd9">Gbadd9</a>, <a href="#gbmadd9">Gbmadd9</a>
 	</p>
 </div>
 <br>
 
+
+## Gb
+
+![Gb - 1](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/Gb.svg) ![Gb - 2](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/Gb-2.svg) ![Gb - 3](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/Gb-3.svg) ![Gb - 4](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/Gb-4.svg) ![Gb - 5](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/Gb-5.svg) ![Gb - 6](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/Gb-6.svg) ![Gb - 7](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/Gb-7.svg) ![Gb - 8](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/Gb-8.svg) ![Gb - 9](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/Gb-9.svg) ![Gb - 10](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/Gb-10.svg) ![Gb - 11](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/Gb-11.svg) ![Gb - 12](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/Gb-12.svg) ![Gb - 13](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/Gb-13.svg) 
 
 ## Gbmaj
 

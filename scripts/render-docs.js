@@ -19,8 +19,7 @@ function renderChordPages() {
 	</p>
 	<br>
 	<p>
-		${suffixes
-			.map(suffix => key + suffix)
+		${[key, ...suffixes.map(suffix => key + suffix)] // Include the key as well (so we have C instead of Cmaj as well)
 			.filter(chord => !!chords[chord])
 			.map(chord => `<a href="#${chord.toLowerCase().replace(/\#/g, '')}">${chord}</a>`)
 			.join(', ')
@@ -29,13 +28,12 @@ function renderChordPages() {
 </div>
 <br>\n\n
 `;
-
-		for (const suffix of suffixes) {
+		function renderWithSuffix(suffix) {
 			const chord = key + suffix;
 			const variations = chords[chord];
 
 			if (!variations)
-				continue;
+				return;
 
 			output += `## ${chord}\n\n`;
 
@@ -48,6 +46,13 @@ function renderChordPages() {
 			}
 
 			output += '\n\n';
+		}
+
+		// Render major chords without suffixes (e.g. C instead of Cmaj)
+		renderWithSuffix('');
+
+		for (const suffix of suffixes) {
+			renderWithSuffix(suffix);
 		}
 
 		fs.writeFileSync(path.resolve(__dirname, `../docs/chords/${key}.md`), output);

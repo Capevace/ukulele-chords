@@ -10,11 +10,15 @@
 	</p>
 	<br>
 	<p>
-		<a href="#bmaj">Bmaj</a>, <a href="#bm">Bm</a>, <a href="#bdim">Bdim</a>, <a href="#bdim7">Bdim7</a>, <a href="#bsus2">Bsus2</a>, <a href="#bsus4">Bsus4</a>, <a href="#b7sus4">B7sus4</a>, <a href="#baug">Baug</a>, <a href="#b6">B6</a>, <a href="#b7">B7</a>, <a href="#b7b5">B7b5</a>, <a href="#b9">B9</a>, <a href="#b9b5">B9b5</a>, <a href="#b7b9">B7b9</a>, <a href="#b79">B7#9</a>, <a href="#b11">B11</a>, <a href="#b911">B9#11</a>, <a href="#b13">B13</a>, <a href="#b13b9">B13b9</a>, <a href="#bb13b9">Bb13b9</a>, <a href="#bmaj7">Bmaj7</a>, <a href="#bmaj7b5">Bmaj7b5</a>, <a href="#bmaj75">Bmaj7#5</a>, <a href="#bmaj9">Bmaj9</a>, <a href="#bmaj11">Bmaj11</a>, <a href="#bmaj13">Bmaj13</a>, <a href="#bm6">Bm6</a>, <a href="#bm7">Bm7</a>, <a href="#bm7b5">Bm7b5</a>, <a href="#bm9">Bm9</a>, <a href="#bm11">Bm11</a>, <a href="#bmmaj7">Bmmaj7</a>, <a href="#bmmaj9">Bmmaj9</a>, <a href="#bmmaj11">Bmmaj11</a>, <a href="#badd9">Badd9</a>, <a href="#bmadd9">Bmadd9</a>
+		<a href="#b">B</a>, <a href="#bmaj">Bmaj</a>, <a href="#bm">Bm</a>, <a href="#bdim">Bdim</a>, <a href="#bdim7">Bdim7</a>, <a href="#bsus2">Bsus2</a>, <a href="#bsus4">Bsus4</a>, <a href="#b7sus4">B7sus4</a>, <a href="#baug">Baug</a>, <a href="#b6">B6</a>, <a href="#b7">B7</a>, <a href="#b7b5">B7b5</a>, <a href="#b9">B9</a>, <a href="#b9b5">B9b5</a>, <a href="#b7b9">B7b9</a>, <a href="#b79">B7#9</a>, <a href="#b11">B11</a>, <a href="#b911">B9#11</a>, <a href="#b13">B13</a>, <a href="#b13b9">B13b9</a>, <a href="#bb13b9">Bb13b9</a>, <a href="#bmaj7">Bmaj7</a>, <a href="#bmaj7b5">Bmaj7b5</a>, <a href="#bmaj75">Bmaj7#5</a>, <a href="#bmaj9">Bmaj9</a>, <a href="#bmaj11">Bmaj11</a>, <a href="#bmaj13">Bmaj13</a>, <a href="#bm6">Bm6</a>, <a href="#bm7">Bm7</a>, <a href="#bm7b5">Bm7b5</a>, <a href="#bm9">Bm9</a>, <a href="#bm11">Bm11</a>, <a href="#bmmaj7">Bmmaj7</a>, <a href="#bmmaj9">Bmmaj9</a>, <a href="#bmmaj11">Bmmaj11</a>, <a href="#badd9">Badd9</a>, <a href="#bmadd9">Bmadd9</a>
 	</p>
 </div>
 <br>
 
+
+## B
+
+![B - 1](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/B.svg) ![B - 2](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/B-2.svg) ![B - 3](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/B-3.svg) ![B - 4](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/B-4.svg) ![B - 5](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/B-5.svg) ![B - 6](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/B-6.svg) ![B - 7](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/B-7.svg) ![B - 8](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/B-8.svg) ![B - 9](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/B-9.svg) ![B - 10](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/B-10.svg) ![B - 11](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/B-11.svg) ![B - 12](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/B-12.svg) ![B - 13](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/B-13.svg) 
 
 ## Bmaj
 

@@ -10,11 +10,15 @@
 	</p>
 	<br>
 	<p>
-		<a href="#emaj">Emaj</a>, <a href="#em">Em</a>, <a href="#edim">Edim</a>, <a href="#edim7">Edim7</a>, <a href="#esus2">Esus2</a>, <a href="#esus4">Esus4</a>, <a href="#e7sus4">E7sus4</a>, <a href="#eaug">Eaug</a>, <a href="#e6">E6</a>, <a href="#e7">E7</a>, <a href="#e7b5">E7b5</a>, <a href="#e9">E9</a>, <a href="#e9b5">E9b5</a>, <a href="#e7b9">E7b9</a>, <a href="#e79">E7#9</a>, <a href="#e11">E11</a>, <a href="#e911">E9#11</a>, <a href="#e13">E13</a>, <a href="#e13b9">E13b9</a>, <a href="#eb13b9">Eb13b9</a>, <a href="#emaj7">Emaj7</a>, <a href="#emaj7b5">Emaj7b5</a>, <a href="#emaj75">Emaj7#5</a>, <a href="#emaj9">Emaj9</a>, <a href="#emaj11">Emaj11</a>, <a href="#emaj13">Emaj13</a>, <a href="#em6">Em6</a>, <a href="#em7">Em7</a>, <a href="#em7b5">Em7b5</a>, <a href="#em9">Em9</a>, <a href="#em11">Em11</a>, <a href="#emmaj7">Emmaj7</a>, <a href="#emmaj9">Emmaj9</a>, <a href="#emmaj11">Emmaj11</a>, <a href="#eadd9">Eadd9</a>, <a href="#emadd9">Emadd9</a>
+		<a href="#e">E</a>, <a href="#emaj">Emaj</a>, <a href="#em">Em</a>, <a href="#edim">Edim</a>, <a href="#edim7">Edim7</a>, <a href="#esus2">Esus2</a>, <a href="#esus4">Esus4</a>, <a href="#e7sus4">E7sus4</a>, <a href="#eaug">Eaug</a>, <a href="#e6">E6</a>, <a href="#e7">E7</a>, <a href="#e7b5">E7b5</a>, <a href="#e9">E9</a>, <a href="#e9b5">E9b5</a>, <a href="#e7b9">E7b9</a>, <a href="#e79">E7#9</a>, <a href="#e11">E11</a>, <a href="#e911">E9#11</a>, <a href="#e13">E13</a>, <a href="#e13b9">E13b9</a>, <a href="#eb13b9">Eb13b9</a>, <a href="#emaj7">Emaj7</a>, <a href="#emaj7b5">Emaj7b5</a>, <a href="#emaj75">Emaj7#5</a>, <a href="#emaj9">Emaj9</a>, <a href="#emaj11">Emaj11</a>, <a href="#emaj13">Emaj13</a>, <a href="#em6">Em6</a>, <a href="#em7">Em7</a>, <a href="#em7b5">Em7b5</a>, <a href="#em9">Em9</a>, <a href="#em11">Em11</a>, <a href="#emmaj7">Emmaj7</a>, <a href="#emmaj9">Emmaj9</a>, <a href="#emmaj11">Emmaj11</a>, <a href="#eadd9">Eadd9</a>, <a href="#emadd9">Emadd9</a>
 	</p>
 </div>
 <br>
 
+
+## E
+
+![E - 1](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/E.svg) ![E - 2](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/E-2.svg) ![E - 3](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/E-3.svg) ![E - 4](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/E-4.svg) ![E - 5](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/E-5.svg) ![E - 6](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/E-6.svg) ![E - 7](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/E-7.svg) ![E - 8](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/E-8.svg) ![E - 9](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/E-9.svg) ![E - 10](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/E-10.svg) ![E - 11](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/E-11.svg) ![E - 12](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/E-12.svg) ![E - 13](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/E-13.svg) ![E - 14](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/E-14.svg) 
 
 ## Emaj
 

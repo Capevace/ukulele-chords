@@ -10,11 +10,15 @@
 	</p>
 	<br>
 	<p>
-		<a href="#fmaj">Fmaj</a>, <a href="#fm">Fm</a>, <a href="#fdim">Fdim</a>, <a href="#fdim7">Fdim7</a>, <a href="#fsus2">Fsus2</a>, <a href="#fsus4">Fsus4</a>, <a href="#f7sus4">F7sus4</a>, <a href="#faug">Faug</a>, <a href="#f6">F6</a>, <a href="#f7">F7</a>, <a href="#f7b5">F7b5</a>, <a href="#f9">F9</a>, <a href="#f9b5">F9b5</a>, <a href="#f7b9">F7b9</a>, <a href="#f79">F7#9</a>, <a href="#f11">F11</a>, <a href="#f911">F9#11</a>, <a href="#f13">F13</a>, <a href="#f13b9">F13b9</a>, <a href="#fb13b9">Fb13b9</a>, <a href="#fmaj7">Fmaj7</a>, <a href="#fmaj7b5">Fmaj7b5</a>, <a href="#fmaj75">Fmaj7#5</a>, <a href="#fmaj9">Fmaj9</a>, <a href="#fmaj11">Fmaj11</a>, <a href="#fmaj13">Fmaj13</a>, <a href="#fm6">Fm6</a>, <a href="#fm7">Fm7</a>, <a href="#fm7b5">Fm7b5</a>, <a href="#fm9">Fm9</a>, <a href="#fm11">Fm11</a>, <a href="#fmmaj7">Fmmaj7</a>, <a href="#fmmaj9">Fmmaj9</a>, <a href="#fmmaj11">Fmmaj11</a>, <a href="#fadd9">Fadd9</a>, <a href="#fmadd9">Fmadd9</a>
+		<a href="#f">F</a>, <a href="#fmaj">Fmaj</a>, <a href="#fm">Fm</a>, <a href="#fdim">Fdim</a>, <a href="#fdim7">Fdim7</a>, <a href="#fsus2">Fsus2</a>, <a href="#fsus4">Fsus4</a>, <a href="#f7sus4">F7sus4</a>, <a href="#faug">Faug</a>, <a href="#f6">F6</a>, <a href="#f7">F7</a>, <a href="#f7b5">F7b5</a>, <a href="#f9">F9</a>, <a href="#f9b5">F9b5</a>, <a href="#f7b9">F7b9</a>, <a href="#f79">F7#9</a>, <a href="#f11">F11</a>, <a href="#f911">F9#11</a>, <a href="#f13">F13</a>, <a href="#f13b9">F13b9</a>, <a href="#fb13b9">Fb13b9</a>, <a href="#fmaj7">Fmaj7</a>, <a href="#fmaj7b5">Fmaj7b5</a>, <a href="#fmaj75">Fmaj7#5</a>, <a href="#fmaj9">Fmaj9</a>, <a href="#fmaj11">Fmaj11</a>, <a href="#fmaj13">Fmaj13</a>, <a href="#fm6">Fm6</a>, <a href="#fm7">Fm7</a>, <a href="#fm7b5">Fm7b5</a>, <a href="#fm9">Fm9</a>, <a href="#fm11">Fm11</a>, <a href="#fmmaj7">Fmmaj7</a>, <a href="#fmmaj9">Fmmaj9</a>, <a href="#fmmaj11">Fmmaj11</a>, <a href="#fadd9">Fadd9</a>, <a href="#fmadd9">Fmadd9</a>
 	</p>
 </div>
 <br>
 
+
+## F
+
+![F - 1](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/F.svg) ![F - 2](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/F-2.svg) ![F - 3](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/F-3.svg) ![F - 4](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/F-4.svg) ![F - 5](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/F-5.svg) ![F - 6](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/F-6.svg) ![F - 7](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/F-7.svg) ![F - 8](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/F-8.svg) ![F - 9](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/F-9.svg) ![F - 10](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/F-10.svg) ![F - 11](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/F-11.svg) ![F - 12](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/F-12.svg) ![F - 13](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/F-13.svg) ![F - 14](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/F-14.svg) 
 
 ## Fmaj
 

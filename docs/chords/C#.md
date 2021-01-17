@@ -10,11 +10,15 @@
 	</p>
 	<br>
 	<p>
-		<a href="#cmaj">C#maj</a>, <a href="#cm">C#m</a>, <a href="#cdim">C#dim</a>, <a href="#cdim7">C#dim7</a>, <a href="#csus2">C#sus2</a>, <a href="#csus4">C#sus4</a>, <a href="#c7sus4">C#7sus4</a>, <a href="#caug">C#aug</a>, <a href="#c6">C#6</a>, <a href="#c7">C#7</a>, <a href="#c7b5">C#7b5</a>, <a href="#c9">C#9</a>, <a href="#c9b5">C#9b5</a>, <a href="#c7b9">C#7b9</a>, <a href="#c79">C#7#9</a>, <a href="#c11">C#11</a>, <a href="#c911">C#9#11</a>, <a href="#c13">C#13</a>, <a href="#c13b9">C#13b9</a>, <a href="#cmaj7">C#maj7</a>, <a href="#cmaj7b5">C#maj7b5</a>, <a href="#cmaj75">C#maj7#5</a>, <a href="#cmaj9">C#maj9</a>, <a href="#cmaj11">C#maj11</a>, <a href="#cmaj13">C#maj13</a>, <a href="#cm6">C#m6</a>, <a href="#cm7">C#m7</a>, <a href="#cm7b5">C#m7b5</a>, <a href="#cm9">C#m9</a>, <a href="#cm11">C#m11</a>, <a href="#cmmaj7">C#mmaj7</a>, <a href="#cmmaj9">C#mmaj9</a>, <a href="#cmmaj11">C#mmaj11</a>, <a href="#cadd9">C#add9</a>, <a href="#cmadd9">C#madd9</a>
+		<a href="#c">C#</a>, <a href="#cmaj">C#maj</a>, <a href="#cm">C#m</a>, <a href="#cdim">C#dim</a>, <a href="#cdim7">C#dim7</a>, <a href="#csus2">C#sus2</a>, <a href="#csus4">C#sus4</a>, <a href="#c7sus4">C#7sus4</a>, <a href="#caug">C#aug</a>, <a href="#c6">C#6</a>, <a href="#c7">C#7</a>, <a href="#c7b5">C#7b5</a>, <a href="#c9">C#9</a>, <a href="#c9b5">C#9b5</a>, <a href="#c7b9">C#7b9</a>, <a href="#c79">C#7#9</a>, <a href="#c11">C#11</a>, <a href="#c911">C#9#11</a>, <a href="#c13">C#13</a>, <a href="#c13b9">C#13b9</a>, <a href="#cmaj7">C#maj7</a>, <a href="#cmaj7b5">C#maj7b5</a>, <a href="#cmaj75">C#maj7#5</a>, <a href="#cmaj9">C#maj9</a>, <a href="#cmaj11">C#maj11</a>, <a href="#cmaj13">C#maj13</a>, <a href="#cm6">C#m6</a>, <a href="#cm7">C#m7</a>, <a href="#cm7b5">C#m7b5</a>, <a href="#cm9">C#m9</a>, <a href="#cm11">C#m11</a>, <a href="#cmmaj7">C#mmaj7</a>, <a href="#cmmaj9">C#mmaj9</a>, <a href="#cmmaj11">C#mmaj11</a>, <a href="#cadd9">C#add9</a>, <a href="#cmadd9">C#madd9</a>
 	</p>
 </div>
 <br>
 
+
+## C#
+
+![C# - 1](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/C%23.svg) ![C# - 2](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/C%23-2.svg) ![C# - 3](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/C%23-3.svg) ![C# - 4](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/C%23-4.svg) ![C# - 5](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/C%23-5.svg) ![C# - 6](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/C%23-6.svg) ![C# - 7](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/C%23-7.svg) ![C# - 8](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/C%23-8.svg) ![C# - 9](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/C%23-9.svg) ![C# - 10](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/C%23-10.svg) ![C# - 11](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/C%23-11.svg) ![C# - 12](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/C%23-12.svg) ![C# - 13](https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/C%23-13.svg) 
 
 ## C#maj
 
