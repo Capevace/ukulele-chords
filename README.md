@@ -11,7 +11,7 @@
 For info on how to use the command-line tool, please refer to the [Usage](docs/usage.md) page.
 
 ## Chord Search
-You can also find your chords by using the [chord search tool](docs/finder.md).
+You can also find your chords by using the [chord search tool](https://mateffy.me/ukulele-chords/docs/finder.md).
 
 ## List of Keys
 ### [C](docs/chords/C.md)
