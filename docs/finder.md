@@ -22,7 +22,7 @@
 	}
 </style>
 
-<script type="text/javascript" src="/data/ukulele-chords-4.js"></script>
+<script type="text/javascript" src="https://mateffy.me/ukulele-chords/data/ukulele-chords-4.js"></script>
 <script type="text/javascript">
 	const label = document.querySelector('.chord-label');
 	const chordsParent = document.querySelector('.chords');
