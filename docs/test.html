@@ -1,8 +1,12 @@
+<div align="center">
+	<h1>🎶 Ukulele Chords – Chord Finder</h1>
+</div>
+
 <form class="container">
-	<input type="text" name="chord" class="chord-label">
+	<input type="text" name="chord" class="chord-label" placeholder="e.g. C#">
 </form>
 <div class="container chords">
-	
+	<p>Enter a chord</p>
 </div>
 
 <style type="text/css">
@@ -65,8 +69,6 @@
 	label.addEventListener('input', e => {
 		const chords = (CHORDS[label.value] || [])
 				.map((variation, index) => ({ chords: [variation], key: label.value, index }));
-
-		console.log(chords);
 
 		setChords(chords);
 	});
